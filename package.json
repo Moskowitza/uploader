@@ -1,0 +1,23 @@
+{
+  "name": "uploader",
+  "version": "1.0.0",
+  "description": "http://shiya.io/simple-file-upload-with-express-js-and-formidable-in-node-js/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moskowitza/uploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moskowitza/uploader/issues"
+  },
+  "homepage": "https://github.com/Moskowitza/uploader#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "formidable": "^1.2.1"
+  }
+}
